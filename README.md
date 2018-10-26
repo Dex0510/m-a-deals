@@ -1,1 +1,1 @@
-# m-a-deals
+# m-a-deal-model
